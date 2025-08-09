@@ -1,0 +1,23 @@
+# .gitignore for ASP.NET Core / .NET projects
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+*.DS_Store
+*.vscode/
+*.idea/
+*.vs/
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+.env
+*.db
+*.sqlite
+*.mdf
+*.log
+TestResults/
+Migrations/*Designer.cs
+
